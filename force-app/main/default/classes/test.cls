@@ -10,6 +10,12 @@ public Class test {
             )
             insert testCase;
             return testCase.Id;
+            system.debug("testing 1234"+testCase);
+            system.debug("testing 12345"+testCase);
+
+            
+
+
         );
     }
 }
